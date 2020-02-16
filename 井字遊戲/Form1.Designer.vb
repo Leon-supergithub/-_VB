@@ -45,88 +45,98 @@ Partial Class Form1
         '
         Me.Label1.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label1.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label1.Location = New System.Drawing.Point(34, 116)
+        Me.Label1.Location = New System.Drawing.Point(45, 145)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(31, 40)
+        Me.Label1.Size = New System.Drawing.Size(41, 50)
         Me.Label1.TabIndex = 0
         '
         'Label2
         '
         Me.Label2.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label2.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label2.Location = New System.Drawing.Point(95, 116)
+        Me.Label2.Location = New System.Drawing.Point(127, 145)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(31, 40)
+        Me.Label2.Size = New System.Drawing.Size(41, 50)
         Me.Label2.TabIndex = 1
         '
         'Label3
         '
         Me.Label3.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label3.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label3.Location = New System.Drawing.Point(156, 116)
+        Me.Label3.Location = New System.Drawing.Point(208, 145)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(31, 40)
+        Me.Label3.Size = New System.Drawing.Size(41, 50)
         Me.Label3.TabIndex = 2
         '
         'Label4
         '
         Me.Label4.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label4.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label4.Location = New System.Drawing.Point(34, 176)
+        Me.Label4.Location = New System.Drawing.Point(45, 220)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(31, 40)
+        Me.Label4.Size = New System.Drawing.Size(41, 50)
         Me.Label4.TabIndex = 3
         '
         'Label5
         '
         Me.Label5.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label5.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label5.Location = New System.Drawing.Point(95, 176)
+        Me.Label5.Location = New System.Drawing.Point(127, 220)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(31, 40)
+        Me.Label5.Size = New System.Drawing.Size(41, 50)
         Me.Label5.TabIndex = 4
         '
         'Label6
         '
         Me.Label6.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label6.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label6.Location = New System.Drawing.Point(156, 176)
+        Me.Label6.Location = New System.Drawing.Point(208, 220)
+        Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(31, 40)
+        Me.Label6.Size = New System.Drawing.Size(41, 50)
         Me.Label6.TabIndex = 5
         '
         'Label7
         '
         Me.Label7.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label7.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label7.Location = New System.Drawing.Point(34, 236)
+        Me.Label7.Location = New System.Drawing.Point(45, 295)
+        Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(31, 40)
+        Me.Label7.Size = New System.Drawing.Size(41, 50)
         Me.Label7.TabIndex = 6
         '
         'Label8
         '
         Me.Label8.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label8.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label8.Location = New System.Drawing.Point(95, 236)
+        Me.Label8.Location = New System.Drawing.Point(127, 295)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(31, 40)
+        Me.Label8.Size = New System.Drawing.Size(41, 50)
         Me.Label8.TabIndex = 7
         '
         'Label9
         '
         Me.Label9.BackColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label9.Font = New System.Drawing.Font("新細明體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.Label9.Location = New System.Drawing.Point(156, 236)
+        Me.Label9.Location = New System.Drawing.Point(208, 295)
+        Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(31, 40)
+        Me.Label9.Size = New System.Drawing.Size(41, 50)
         Me.Label9.TabIndex = 8
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(33, 19)
+        Me.Button1.Location = New System.Drawing.Point(44, 24)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(72, 60)
+        Me.Button1.Size = New System.Drawing.Size(96, 75)
         Me.Button1.TabIndex = 9
         Me.Button1.Text = "按我開始"
         Me.Button1.UseVisualStyleBackColor = True
@@ -137,9 +147,10 @@ Partial Class Form1
         Me.Label10.BackColor = System.Drawing.Color.Black
         Me.Label10.Font = New System.Drawing.Font("標楷體", 21.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
         Me.Label10.ForeColor = System.Drawing.Color.White
-        Me.Label10.Location = New System.Drawing.Point(220, 19)
+        Me.Label10.Location = New System.Drawing.Point(293, 24)
+        Me.Label10.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(193, 29)
+        Me.Label10.Size = New System.Drawing.Size(245, 37)
         Me.Label10.TabIndex = 10
         Me.Label10.Text = "尚未分出勝負"
         '
@@ -157,17 +168,19 @@ Partial Class Form1
         Me.Label11.BackColor = System.Drawing.Color.LightGreen
         Me.Label11.Font = New System.Drawing.Font("標楷體", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
         Me.Label11.ForeColor = System.Drawing.Color.White
-        Me.Label11.Location = New System.Drawing.Point(220, 70)
+        Me.Label11.Location = New System.Drawing.Point(293, 88)
+        Me.Label11.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(124, 27)
+        Me.Label11.Size = New System.Drawing.Size(151, 34)
         Me.Label11.TabIndex = 11
         Me.Label11.Text = "經過秒數"
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(124, 19)
+        Me.Button2.Location = New System.Drawing.Point(165, 24)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(63, 60)
+        Me.Button2.Size = New System.Drawing.Size(84, 75)
         Me.Button2.TabIndex = 12
         Me.Button2.Text = "按我結束"
         Me.Button2.UseVisualStyleBackColor = True
@@ -178,17 +191,18 @@ Partial Class Form1
         Me.Label12.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.Label12.Font = New System.Drawing.Font("標楷體", 26.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
         Me.Label12.ForeColor = System.Drawing.Color.Aqua
-        Me.Label12.Location = New System.Drawing.Point(219, 121)
+        Me.Label12.Location = New System.Drawing.Point(292, 151)
+        Me.Label12.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(159, 35)
+        Me.Label12.Size = New System.Drawing.Size(196, 44)
         Me.Label12.TabIndex = 13
         Me.Label12.Text = "玩家編號"
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(526, 304)
+        Me.ClientSize = New System.Drawing.Size(701, 380)
         Me.Controls.Add(Me.Label12)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Label11)
@@ -203,8 +217,9 @@ Partial Class Form1
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Name = "Form1"
-        Me.Text = "井字遊戲"
+        Me.Text = "井字遊戲-第一版_20200216"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
